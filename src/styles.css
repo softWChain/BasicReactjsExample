@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h2,
+li {
+  background-color: pink;
+  margin: 5px 0px;
+}
+
+.btn-dlt {
+  float: right;
+  background-color: green;
+  font-size:.7em;
+  cursor: pointer;
+}
